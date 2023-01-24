@@ -46,7 +46,7 @@ The SleepBuddy can also :
 | Switch on-off (turn on and off the SleepBuddy) | [amazon](https://www.amazon.fr/ARTGEAR-Interrupteur-Bascule-Positions-Broches/dp/B07GDCNXKP/ref=sr_1_21?crid=D4O86S68WC7U&keywords=switch%2Barduino&qid=1671830001&sprefix=switch%2Barduin%2Caps%2C180&sr=8-21&th=1) | 10,61 $ |
 | Movement sensor | [amazon](https://www.amazon.fr/AZDelivery-HC-SR501-ultrasons-T%C3%A9l%C3%A9m%C3%A8tre-Raspberry/dp/B07CNBYRQ7/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23F3OXHPOD84&keywords=movement%2Bsensor%2Barduino&qid=1671830580&sprefix=movement%2Bsensor%2Barduino%2Caps%2C87&sr=8-2&th=1) | 14,32 $ |
 | Jumper Wires | [amazon](https://www.amazon.fr/YXPCARS-câbles-jumper-femelle-Arduino/dp/B08HQ7K6M7/ref=sr_1_5?crid=TV7B8USTG35U&keywords=jumper+cable&qid=1671636526&sprefix=jumper+ca%2Caps%2C108&sr=8-5) | 11,66 $ |
-| wood and Polypropylene parts | [Artilect](https://artilect.fr/) (Toulouse) | max 50 $ (depends on the box's size) |
+| wood and Polypropylene parts | [Artilect](https://artilect.fr/) (Toulouse) | max 20 $ (depends on the box's size) |
 | AZDelivery Display Module Vert LCD |  [amazon](https://www.amazon.fr/azdelivery-HD44780-1602-Module-écran-16-caractères-Arduino/dp/B01N3B8JMN/ref=sr_1_5?keywords=ecran%2Blcd%2Barduino&qid=1671636943&sr=8-5&th=1) | 6,89 $  |
 | AZDelivery LED Display |  [amazon](https://www.amazon.fr/AZDelivery-Digital-Display-Arduino-Raspberry/dp/B06X952QXS/ref=sr_1_11?__mk_fr_FR=ÅMÅŽÕÑ&crid=FRXJMXVZ4D40&keywords=segmented%2Bi2c%2Bdisplay%2Barduino&qid=1671637038&sprefix=segmented%2Bi2c%2Bdispal%2Barduino%2Caps%2C82&sr=8-11&th=1) | 6,89 $ |
 | Breadboard | [amazon](https://www.amazon.fr/gp/product/B08R2YM6RK/ref=ox_sc_act_title_1?smid=A2FA71JYWLOOYW&psc=1) | 6,27 $|
